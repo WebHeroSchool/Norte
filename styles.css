@@ -1,0 +1,72 @@
+.body {
+  background: #E5E5E5;
+}
+
+.header {
+
+}
+
+.header__title {
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.header__menu {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.menu__item {
+
+}
+
+.section {
+
+}
+
+.main {
+
+}
+
+.main__title {
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 66px;
+  line-height: 87px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.main__description {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
+  color: #000000;
+}
+
+.main__button {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
+
+.section__right {
+
+}
